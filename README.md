@@ -5,17 +5,17 @@ Modeling data on Air Travel Information System Dataset
 Intent Classification Model 
 -------------------------------------
 
-![Screenshot](intent_model.png)
+<img src="intent_model.png" alt="alt text" width="500" >
 
 NER Classification Model 
 -------------------------------------
 
-![Screenshot](ner_model.png)
+<img src="ner_model.png" alt="alt text" width="500" >
 
 Training Losses using KFold Stratification
 
 - Intent
-![Screenshot](intent_imgs/intent_5.png)
+<img src="intent_imgs/intent_5.png" alt="alt text" width="400" >
 
 - NER
-![Screenshot](ner_imgs/ner_5.png)
+<img src="ner_imgs/ner_5.png" alt="alt text" width="400" >
