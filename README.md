@@ -19,3 +19,13 @@ Training Losses using KFold Stratification
 
 - NER
 <img src="ner_imgs/ner_5.png" alt="alt text" width="400" >
+
+
+Joint model for intent and NER model
+-----------------------------------------
+
+<img src="model.png" alt="alt text" width="500" >
+
+Training Losses using KFold Stratification
+
+<img src="download_3.png" alt="alt text" width="400" >
