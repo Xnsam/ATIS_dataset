@@ -24,8 +24,8 @@ Training Losses using KFold Stratification
 Joint model for intent and NER model
 -----------------------------------------
 
-- Model
+
 <img src="joint_model_cnn.png" alt="alt text" width="600" >
 
-Training Losses using KFold Stratification
+- Training Losses using KFold Stratification
 <img src="joint_model_3.png" alt="alt text" width="400" >
